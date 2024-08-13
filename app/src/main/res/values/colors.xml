@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="btn_color">#efa003</color>
+
+    <color name="svg_color">#939393</color>
+
+    //dark theme
+    <color name="dark_bg_color">#777777</color>
+    <color name="dark_view_color">#242424</color>
+    <color name="dark_title_txt_color">#cecece</color>
+    <color name="dark_txt_color">#969696</color>
+    <color name="dark_txt_hint_color">#777777</color>
+
+
+    //light theme
+    <color name="light_bg_color">#f0f4f9</color>
+    <color name="light_view_color">#ffffff</color>
+    <color name="light_title_txt_color">#000000</color>
+    <color name="light_txt_color">#666666</color>
+    <color name="light_txt_hint_color">#999999</color>
+
+
+    <color name="text_app_color">#000000</color>
+    <color name="secondary_app_color">#8acf01</color>
+    <color name="primary_app_color">#013033</color>
+
+
+</resources>

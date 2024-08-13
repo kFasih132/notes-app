@@ -1,0 +1,68 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Notes" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.Notes" parent="Base.Theme.Notes" />
+    
+    <style name="light_default_txt_style" parent="MaterialAlertDialog.Material3.Body.Text">
+
+        <item name="android:textColor">@color/light_txt_color</item>
+        <item name="android:textSize">@dimen/default_txt_size</item>
+        <item name="android:fontFamily">@font/ebrima</item>
+        <item name="android:textStyle">normal</item>
+
+
+    </style>
+
+    <style name="dark_default_txt_style" parent="MaterialAlertDialog.Material3.Body.Text">
+
+        <item name="android:textColor">@color/dark_txt_color</item>
+        <item name="android:textSize">@dimen/default_txt_size</item>
+        <item name="android:fontFamily">@font/ebrima</item>
+        <item name="android:textStyle">normal</item>
+
+
+    </style>
+
+
+    <style name="light_heading_txt_style" parent="MaterialAlertDialog.Material3.Body.Text">
+
+        <item name="android:textColor">@color/light_title_txt_color</item>
+        <item name="android:textSize">@dimen/heading_txt_size</item>
+        <item name="android:fontFamily">@font/ebrimabd</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="dark_heading_txt_style" parent="MaterialAlertDialog.Material3.Body.Text">
+
+        <item name="android:textColor">@color/dark_title_txt_color</item>
+        <item name="android:textSize">@dimen/heading_txt_size</item>
+        <item name="android:fontFamily">@font/ebrimabd</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="light_small_txt_style" parent="MaterialAlertDialog.Material3.Body.Text">
+
+        <item name="android:textSize">@dimen/small_txt_style</item>
+        <item name="android:fontFamily">@font/ebrima</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/light_txt_hint_color</item>
+
+    </style>
+
+    <style name="dark_small_txt_style" parent="MaterialAlertDialog.Material3.Body.Text">
+
+        <item name="android:textSize">@dimen/small_txt_style</item>
+        <item name="android:fontFamily">@font/ebrima</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/dark_txt_hint_color</item>
+
+    </style>
+
+
+</resources>

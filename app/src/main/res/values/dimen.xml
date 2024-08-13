@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <dimen name="default_txt_size">16sp</dimen>
+    <dimen name="heading_txt_size">22sp</dimen>
+    <dimen name="small_txt_style">12sp</dimen>
+
+    <dimen name="corner_radius">36dp</dimen>
+
+    <dimen name="tv_height">32dp</dimen>
+    
+</resources>
